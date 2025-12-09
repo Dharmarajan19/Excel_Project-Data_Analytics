@@ -1,2 +1,3 @@
 # Excel_Project-Data_Analytics
-My Project Demonstrating My Excel Skills
+My Project Demonstrating My Excel Skills  
+Data Salary Calculator
